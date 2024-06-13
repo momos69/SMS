@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcOlj9WQL0c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\S3BEPG\\source\\repos\\SMS\\SMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S3BEPG\\.nuget\\packages\\spectre.console\\0.49.2-preview.0.7\\spectre.console.0.49.2-preview.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

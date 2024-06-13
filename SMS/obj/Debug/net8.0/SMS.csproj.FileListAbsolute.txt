@@ -1,0 +1,17 @@
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\SMS.AssemblyInfoInputs.cache
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\SMS.AssemblyInfo.cs
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\SMS.csproj.CoreCompileInputs.cache
+C:\Users\S3BEPG\source\repos\SMS\bin\Debug\net8.0\SMS.exe
+C:\Users\S3BEPG\source\repos\SMS\bin\Debug\net8.0\SMS.deps.json
+C:\Users\S3BEPG\source\repos\SMS\bin\Debug\net8.0\SMS.runtimeconfig.json
+C:\Users\S3BEPG\source\repos\SMS\bin\Debug\net8.0\SMS.dll
+C:\Users\S3BEPG\source\repos\SMS\bin\Debug\net8.0\SMS.pdb
+C:\Users\S3BEPG\source\repos\SMS\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\SMS.csproj.AssemblyReference.cache
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\SMS.csproj.Up2Date
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\SMS.dll
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\refint\SMS.dll
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\SMS.pdb
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\SMS.genruntimeconfig.cache
+C:\Users\S3BEPG\source\repos\SMS\obj\Debug\net8.0\ref\SMS.dll
